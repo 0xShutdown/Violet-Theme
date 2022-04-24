@@ -1,0 +1,24 @@
+{
+	"name": "Violet Theme",
+	"version": "1.1",
+	"description": "This theme is very clean!",
+	"manifest_version": 3,
+	"theme": {
+		"colors": {
+			"bookmark_text": [242, 242, 242],
+			"frame": [56, 58, 89],
+			"ntp_background": [56, 58, 89],
+			"ntp_text": [242, 242, 242],
+			"tab_text": [242, 242, 242],
+			"tab_background_text": [242, 242, 242],
+			"button_background": [0, 0, 0, 0],
+			"toolbar": [131, 105, 255]
+			},
+			"tints": {
+			"buttons": [0, 0, 0.95],
+     		        "frame_inactive": [ -1, -1, -1 ],
+      			"frame_incognito": [ -1, -1, -1 ],
+         		"frame_incognito_inactive": [ -1, -1, -1 ]
+			}
+	}
+}
