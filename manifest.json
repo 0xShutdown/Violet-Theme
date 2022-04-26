@@ -1,7 +1,6 @@
 {
 	"name": "Violet Theme",
 	"version": "1.1",
-	"description": "This theme is very clean!",
 	"manifest_version": 3,
 	"theme": {
 		"colors": {
