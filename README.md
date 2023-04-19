@@ -1,4 +1,5 @@
-# Violet-Theme
+# Violet Theme
+This theme is very clean!
 
 ## Install
 - [Violet Theme](https://chrome.google.com/webstore/detail/violet-theme/jlphdcphacfopbbbheghfopaclkolgcd)
